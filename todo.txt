@@ -1,0 +1,9 @@
+TODO LIST
+---------------------------
+
+> URL BAR
+	- should show the url of each page instead of /# for everything
+	- get rid of #
+
+> NAVBAR MOBILE ICON
+	- navbar should collapse into a mobile menu icon and dropdown (used bootstrap theme: http://ironsummitmedia.github.io/startbootstrap-freelancer/)
