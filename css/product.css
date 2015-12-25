@@ -24,11 +24,11 @@
 
 #tech_bar {
 	background-color: #007acc;
-	position: absolute;
 	height: auto;
 	width: 100%;
 	left:0;
-	margin-top:85vh;
+	margin-top: 82vh;
+	position: absolute;
 }
 
 .tech_icon {
@@ -37,15 +37,19 @@
 }
 
 #spacing_products {
-	background-color: rgba(0,0,0,0);
 	margin-top:15vh;
 }
 
 #product_info {
-	height: 102vh;
-	margin-top:98vh;
-	position:absolute;
+	height: 200vh;
+	margin-top: 96vh;
+	position: absolute;
 	width: 100%;
 	left:0;
 	background-color: #0099ff;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: rgb(245, 245, 245);
+	font-size:2vh;
+	position:absolute;
+	text-indent: 2vw;
 }
